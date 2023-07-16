@@ -1,1 +1,5 @@
+baseURL = 'https://sarahihme.github.io/TravelWebPage/'
+languageCode = 'en-us'
+title = 'Japan and South Korea'
+
 theme = 'lugo'
